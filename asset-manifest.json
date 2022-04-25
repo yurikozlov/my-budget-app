@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/yurikozlov/my-budget-app.git/static/css/main.a40d0d6d.css",
-    "main.js": "/yurikozlov/my-budget-app.git/static/js/main.8a737ee6.js",
-    "static/js/787.c4271f98.chunk.js": "/yurikozlov/my-budget-app.git/static/js/787.c4271f98.chunk.js",
-    "index.html": "/yurikozlov/my-budget-app.git/index.html",
-    "main.a40d0d6d.css.map": "/yurikozlov/my-budget-app.git/static/css/main.a40d0d6d.css.map",
-    "main.8a737ee6.js.map": "/yurikozlov/my-budget-app.git/static/js/main.8a737ee6.js.map",
-    "787.c4271f98.chunk.js.map": "/yurikozlov/my-budget-app.git/static/js/787.c4271f98.chunk.js.map"
+    "main.css": "/my-budget-app/static/css/main.a40d0d6d.css",
+    "main.js": "/my-budget-app/static/js/main.f5b700cc.js",
+    "static/js/787.c4271f98.chunk.js": "/my-budget-app/static/js/787.c4271f98.chunk.js",
+    "index.html": "/my-budget-app/index.html",
+    "main.a40d0d6d.css.map": "/my-budget-app/static/css/main.a40d0d6d.css.map",
+    "main.f5b700cc.js.map": "/my-budget-app/static/js/main.f5b700cc.js.map",
+    "787.c4271f98.chunk.js.map": "/my-budget-app/static/js/787.c4271f98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a40d0d6d.css",
-    "static/js/main.8a737ee6.js"
+    "static/js/main.f5b700cc.js"
   ]
 }
